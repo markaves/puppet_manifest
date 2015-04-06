@@ -3,5 +3,4 @@ class nfs {
                 name => "nfs-common",
                 ensure => installed,
         }
-
 }
